@@ -6,6 +6,7 @@ orange
 purple
 
 green
+light green
 
 violet
 
